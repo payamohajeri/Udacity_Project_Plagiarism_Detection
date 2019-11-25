@@ -33,4 +33,4 @@ Please see the [README](https://github.com/udacity/ML_SageMaker_Studies/tree/mas
 
 ---
 
-Thanks to https://github.com/raduenuca for helping me understanding the project better.
+Thanks to [raduenuca](https://github.com/raduenuca) for helping me understanding the project better.
